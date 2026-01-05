@@ -2,6 +2,7 @@
 I'm a Computer Science student and software developer with a strong interest in systems-level programming and game technology.  
 I enjoy building things from the ground up and understanding how software works under the hood.
 
+
 #### 🔍 Recent Interests
 - Computer Networks  
 - Databases  
@@ -29,3 +30,7 @@ I enjoy building things from the ground up and understanding how software works 
 - Scalable backend systems
 - Low-level performance optimization
 
+
+
+
+![RollingGu](https://github.com/Git-Mere/Git-Mere/blob/main/about_photo.gif)
